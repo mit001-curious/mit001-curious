@@ -1,12 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF00&height=150&section=header&text=skullxcode&fontSize=70&fontColor=FFFFFF" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/luffyy01">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&pause=1800&color=00FF00&center=true&vCenter=true&width=520&lines=Mit+Jain+—+Competitive+Programmer"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=30&pause=1500&color=E5E7EB&width=520&lines=Mit+Jain;Competitive+Programmer;Problem+Solving+%26+Algorithms)](https://git.io/typing-svg)
