@@ -1,3 +1,59 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF00&height=150&section=header&text=skullxcode&fontSize=70&fontColor=FFFFFF" alt="Header Banner"/>
+</p>
+
+<div align="center">
+  <h1>
+    <a href="https://github.com/luffyy01">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=600&color=22D3EE&width=540&lines=Mit+Jain+-+Competitive+Programmer"
+        alt="Typing SVG"
+      />
+    </a>
+  </h1>
+</div>
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mit-jain-74aaa52a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mitjain.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mitjain70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+Passionate about Problem solving and COMPETITIVE PROGRAMMING and AI/ML !!
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode,vercel&perline=7" alt="My Tech Stack"/>
+  </a>
+</p>
+
+---
+
+
+
+
+### 🎃 Hacktoberfest
+
+# HACKTOBER-FEST
+[![An image of @mitjain70's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mitjain70)](https://holopin.io/@mitjain70)
+
+---
+
+
+
 ## 🏁 Competitive Programming
 
 - **Platform:** Codeforces  
@@ -5,3 +61,23 @@
 - **Rating:** **1136**
 
 [![Codeforces](https://img.shields.io/badge/CF-1136-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/luffyy01)
+
+
+---
+
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mit-jain-74aaa52a3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/luffyy01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mitjain70@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
+</p>
