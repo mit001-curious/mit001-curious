@@ -1,5 +1,3 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,vercel,c++&perline=7" alt="My Tech Stack"/>
-  </a>
-</p>
+## 🏁 Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1136-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/luffyy01)
