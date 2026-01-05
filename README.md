@@ -2,8 +2,8 @@
   <img
     src="https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b"
     alt="CP Banner"
-    width="500"
-    height="300"
+    width="600"
+    height="500"
   />
 </p>
 
@@ -26,9 +26,7 @@
   <a href="mailto:mitjain70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
-</p>
+
 
 ---
 
