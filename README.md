@@ -2,7 +2,7 @@
   <img
     src="https://i.pinimg.com/736x/bc/93/ab/bc93ab71349e3ce2031ef959062da790.jpg"
     alt="Competitive Programming Banner"
-    style="width:100%; max-height:180px; object-fit:cover; object-position:center 65%;"
+    style="width:100%; max-height:180px; object-fit:cover; object-position:center 95%;"
   />
 </p>
 
