@@ -83,17 +83,16 @@ I enjoy breaking down complex problems and writing clean, efficient solutions.
 ## 🌐 Connect with Me
 
 <br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mit-jain-74aaa52a3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/luffyy01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mitjain70@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mitjain70@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </p>
