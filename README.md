@@ -6,7 +6,7 @@
   <h1>
     <a href="https://github.com/luffyy01">
       <img
-        src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=22D3EE&width=540&lines=Mit+Jain+ - +Competitive+Programmer"
+        src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=22D3EE&width=540&lines=Mit+Jain+ || +Competitive+Programmer"
         alt="Typing SVG"
       />
     </a>
