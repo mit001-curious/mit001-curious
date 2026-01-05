@@ -1,7 +1,5 @@
 
-![luffy](https://github.com/user-attachments/assets/f540d668-26c0-4da4-bf2a-03e17927ddf5)
-
-
+![PHOTO-2026-01-05-14-33-45](https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b)
 
 <div align="center">
   <h1>
