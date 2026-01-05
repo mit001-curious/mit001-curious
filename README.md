@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=30&pause=1500&color=E5E7EB&width=520&lines=Mit+Jain;Competitive+Programmer;Problem+Solving+%26+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Arpit+Sarang👋🏻;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
