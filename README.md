@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**mit001-curious/mit001-curious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF00&height=150&section=header&text=skullxcode&fontSize=70&fontColor=FFFFFF" alt="Header Banner"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>
+    <a href="https://github.com/luffyy01">
+      <img src="font=Space+Grotesk&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=540&lines=Hi+there%2C+I'm+Mit+Jain;Competitive+Programmer;Problem+Solver;
+" alt="Typing SVG">
+    </a>
+  </h1>
+</div>
