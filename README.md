@@ -3,6 +3,7 @@
     src="https://i.pinimg.com/736x/bc/93/ab/bc93ab71349e3ce2031ef959062da790.jpg"
     alt="Competitive Programming Banner"
     width="100%"
+    height="200px"
   />
 </p>
 
