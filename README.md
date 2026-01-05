@@ -1,5 +1,10 @@
-
-![PHOTO-2026-01-05-14-33-45](https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/619ed5ec-b8e9-494b-b02a-18b754ba8e2b"
+    alt="CP Banner"
+    height="160"
+  />
+</p>
 
 <div align="center">
   <h1>
