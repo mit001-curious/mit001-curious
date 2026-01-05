@@ -1,3 +1,7 @@
 ## 🏁 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1136-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/luffyy01)
+- **Platform:** Codeforces  
+- **Handle:** `luffyy01`  
+- **Rating:** **1136**
+
+[![Codeforces](https://img.shields.io/badge/CF-1136-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/luffyy01)
