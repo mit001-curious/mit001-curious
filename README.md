@@ -1,10 +1,5 @@
-<p align="center">
-  <img
-    src="https://i.pinimg.com/736x/bc/93/ab/bc93ab71349e3ce2031ef959062da790.jpg"
-    alt="Competitive Programming Banner"
-    height="160"
-  />
-</p>
+
+![luffy](https://github.com/user-attachments/assets/f540d668-26c0-4da4-bf2a-03e17927ddf5)
 
 
 
